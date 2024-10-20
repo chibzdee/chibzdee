@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I"m currently working on Data Science projects<br>I"m currently learning Machine Learning<br>I love Mathematics and Physics
+👋 Hi, I’m Kene—a passionate Machine Learning Engineer and Data Scientist with a strong background in Python programming. I have a deep interest in solving real-world problems using machine learning, deep learning, and data science techniques.<br><br>🔬 I specialize in:<br><br>Building and fine-tuning deep learning models for complex problems.<br>Working with tools like Keras, TensorFlow, and scikit-learn.<br>Creating end-to-end machine learning pipelines, from data preprocessing to deployment.<br>💻 Languages & Tools:<br>Python, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, and more.<br><br>📈 I'm always learning and improving my skills by tackling new challenges and hands-on projects. Recently, I’ve been working on predicting hazardous objects in space and experimenting with different neural network architectures.<br><br>🎯 In my free time, I enjoy learning new technologies, sharing knowledge, and contributing to the open-source community. My journey started with courses from Udemy, and I’m now focused on applying what I’ve learned to real-world scenarios.<br><br>Feel free to explore my repositories, where I showcase various machine learning, data science, and deep learning projects. Let's collaborate and build something amazing together!
 
 
 ## 🌐 Socials:
